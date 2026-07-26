@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-fynmgt.pulaucuanwin.sbs/sitemap.xml
